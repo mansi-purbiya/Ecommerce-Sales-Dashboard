@@ -1,4 +1,7 @@
 <h1 align="center">📊 Madhav Ecommerce Sales Dashboard – Power BI</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mansi-purbiya/Ecommerce-Sales-Dashboard/main/Ecommerce%20Sales%20Dashboard_ss.png" width="900" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tool-PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black" alt="Power BI Badge" />
